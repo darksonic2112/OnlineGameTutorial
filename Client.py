@@ -1,7 +1,7 @@
 # A tutorial by tech with tim https://www.techwithtim.net/tutorials/python-online-game-tutorial/client
 import pygame
 import sys
-from network import Network
+from Network import Network
 
 width = 500
 height = 500
